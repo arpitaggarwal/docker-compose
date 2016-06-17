@@ -53,7 +53,7 @@ Docker Machine is a tool for provisioning and managing your Dockerized hosts (ho
 
 ### Some useful Docker Commands
 
-1. docker stop container - ```docker stop <container-id>```
+1. Docker stop container - ```docker stop <container-id>```
 
 2. Stop all containers - ```docker stop $(docker ps -a -q)```
 
